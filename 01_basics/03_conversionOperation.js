@@ -53,4 +53,4 @@ let gameCounter = 100
 ++gameCounter; //precedence operator prefix and postfix
 console.log(gameCounter);
 
-
+//learn about different operations and precedence operator prefix and postfix
