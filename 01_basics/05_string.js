@@ -47,3 +47,8 @@ console.log(url.includes('vineet'))
 
 console.log(gameName.split('-'));
 //With the help of this method we can split the string on the basis of anythind on which we want to seprate the string 
+
+
+
+
+// in this we learn about various method and function on string.
