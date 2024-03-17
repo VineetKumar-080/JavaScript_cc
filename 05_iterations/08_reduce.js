@@ -32,3 +32,5 @@ const shoppingCart = [
 const priceToPay = shoppingCart.reduce( (accumulator,item) => accumulator + item.price,0)
  console.log(priceToPay);
 
+
+ // THE BASICS OF JAVASCRIPT ARE COMPLETED UPTO VIDEO 30
